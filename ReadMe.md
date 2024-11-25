@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I'm a peak performing Developer from Germany</p>
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/260388846108147713) 
 ###
 
 <h2 align="left">About me</h2>
