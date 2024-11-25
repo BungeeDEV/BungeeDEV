@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🦠 Creating bugs since to many years<br>📚 Lifelong learner eager to explore new technologies and concepts...sometimes...<br>🎯 Goals: To be the smartest guy on earth<br>📱 Passionate Wannabe-**Full-Stack Developer** and Software Developer</p>
+<p align="left">🦠 Creating bugs since to many years<br>📚 Lifelong learner eager to explore new technologies and concepts...sometimes...<br>🎯 Goals: To be the smartest guy on earth<br>📱 Passionate Wannabe- **Full-Stack Developer** and Software Developer</p>
 
 ###
 
