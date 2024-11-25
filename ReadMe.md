@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🦠 Creating bugs for way too many years<br>🎯 Goal: To become the smartest guy on Earth<br>👨🏼‍💻 Passionate wannabe full-stack developer and software engineer</p>
+<p align="left">🦠 Creating bugs for way too many years<br>🎯 Goal: To become the smartest guy on Earth<br>👨🏼‍💻 Passionate wannabe full-stack developer and wannabe software engineer</p>
 
 ###
 
