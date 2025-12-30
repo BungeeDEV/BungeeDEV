@@ -4,8 +4,6 @@
 
 <p align="left">I'm a peak-performing developer based in Germany, currently working as a web and full-stack developer with a focus on Java.</p>
 
-###
-
 ![](https://komarev.com/ghpvc/?username=BungeeDEV&style=flat-square)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/260388846108147713) 
 
