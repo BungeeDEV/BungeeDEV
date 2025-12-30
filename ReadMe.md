@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8D3D1C&center=true&width=435&lines=Developer;%22AI+Chief+Operator%22;Peak-performing+developer)](https://git.io/typing-svg)
+
 <h1 align="left">Hey, nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1698659368/72825/pepe-wave.gif?1698659368" width="30"/></h1>
 
 ###
