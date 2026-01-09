@@ -15,12 +15,11 @@
 
 ### Technologies
 Talk to me about
+- 🔭 Currently working at @lyndaranet
 - 🦠 Creating bugs professionally for way too many years<br>
-- 🎯 My ultimate goal: becoming the smartest person on Earth<br>
 - 👨🏼‍💻 Passionate wannabe full-stack developer and aspiring software engineer, always tinkering and learning<br>
-- 🛠️ Currently wrestling with JavaScript, Python, and whatever framework is trending this week<br>
-- 🚀 Building projects that occasionally work on the first try (it's always DNS)<br>
-- ☕ Converting coffee into code, one Stack Overflow search at a time
+- 🛠️ Currently wrestling with JavaScript, Java, some Minecraft Stuff and whatever framework is trending this week<br>
+- 📫 Reach me out here: bungeedev (Discord)
 
 ###
 
