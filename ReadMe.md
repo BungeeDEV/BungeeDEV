@@ -15,7 +15,7 @@
 
 ### Technologies
 Talk to me about
-- 🔭 Currently working at [@lyndaranet](https://github.com/lyndaranet)
+- 🔭 Currently working on [@lyndaranet](https://github.com/lyndaranet)
 - 🦠 Creating bugs professionally for way too many years<br>
 - 👨🏼‍💻 Passionate wannabe full-stack developer and aspiring software engineer, always tinkering and learning<br>
 - 🛠️ Currently wrestling with JavaScript, Java, some Minecraft Stuff and whatever framework is trending this week<br>
